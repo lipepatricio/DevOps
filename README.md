@@ -1,1 +1,1 @@
-arquivo md para passos de execucao do arquivo
+arquivo md para passos de execucao do arquivo app
